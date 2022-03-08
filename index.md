@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Moremedia Online
+
+Wij verkopen u alles wat er te verkopen valt.
 
 You can use the [editor on GitHub](https://github.com/moremediaonline/webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
