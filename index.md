@@ -10,8 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Hassan is een geweldige programmeur die nog niet kan programmeren, maar hij doet er alles aan om het te leren, en hij begint met GitHub.
 
-```markdown
-Syntax highlighted code block
+''''javascript
+console.log('Kom naar moremedia online')
 
 # Header 1
 ## Header 2
